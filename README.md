@@ -10,6 +10,10 @@ This simple chat app demonstrates how to build a basic messaging interface using
 - Displaying messages in a chat bubble format
 - Basic UI design resembling popular messaging apps
 
+## Future plans
+
+
+
 ## Demo
 
 ![App Demo](screenshots/demo.gif)
